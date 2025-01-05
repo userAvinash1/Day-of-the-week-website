@@ -1,1 +1,1 @@
-# Day-of-the-week-website
+# day-of-week-app
